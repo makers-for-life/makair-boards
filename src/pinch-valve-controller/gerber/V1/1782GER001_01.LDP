@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\0 - TRONICO\0 - Cartes\099_TRONICO\099_MAKAIR\1782DC111_Carte_Interface_Moteur_MAKAIR\Placement_Routage_Gerbers\1782CAO001.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=1782ger001_01-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=1782ger001_01-nonplated.txt|DrillLayers=gtl,gbl

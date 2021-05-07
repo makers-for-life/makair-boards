@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\0 - TRONICO\0 - Cartes\099_TRONICO\099_MAKAIR\1782DC111_Carte_Interface_Moteur_MAKAIR\Placement_Routage_Gerbers\1782CAO001.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_GND_KEEPOUT|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_0.21|Scope=Board|Minimum=8.27
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.27
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
